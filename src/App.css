@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('./SEGA.woff') format('woff');
+}
+
+.robo-h1{
+    font-family: 'SEGA LOGO FONT', sans-serif, Arial;
+    color: rgb(255, 255, 255);
+    font-size: 2.5rem;
+    font-weight: 100;
+}
