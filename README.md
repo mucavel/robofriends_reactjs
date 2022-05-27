@@ -1,6 +1,6 @@
 # Robo Friends - Reactjs
-Projecto de aprendizado do ReactS.
-Build da aplicação Ro Friends
+Projecto de aprendizado do ReactS.\
+Build da aplicação Robo Friends
 
 Código fonte:\
 https://github.com/salvadormucavel/robofriends_react_code
